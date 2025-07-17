@@ -1,0 +1,5 @@
+coqui-tts==0.22.0
+gradio==4.34.0
+torch>=2.0.0
+torchaudio>=2.0.0
+numpy
