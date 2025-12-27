@@ -1,16 +1,16 @@
-# XTTS Multilingual Voice Cloning 🎙️🌍
+# XTTS Multilingual Voice Cloning 🎙️
 
 This project is a web-based **multilingual voice cloning app** powered by [Coqui XTTS v2](https://coqui.ai/), hosted on **Hugging Face Spaces** and built using **Gradio**.
 
 🔗 **Live Demo**: [xtts-atishay-voice-clone on Hugging Face](https://huggingface.co/spaces/atishay04/xtts-atishay-voice-clone)
 
-## 🚀 Features
+##  Features
 
-- 🧠 **Speaker cloning** using your own voice samples (`.wav`)
+-  **Speaker cloning** using your own voice samples (`.wav`)
 - 🌐 **Multilingual text-to-speech** (supports English, Hindi, Spanish, etc.)
-- 🎚️ Dynamic voice sample selection
-- 🖥️ Clean UI built with Gradio
-- 🐍 Python backend powered by Coqui TTS
+-  Dynamic voice sample selection
+-  Clean UI built with Gradio
+-  Python backend powered by Coqui TTS
 
 ---
 
@@ -30,7 +30,7 @@ xtts-atishay-voice-clone/
    ```bash
    git clone https://github.com/atishay04/xtts-atishay-voice-clone.git
    cd xtts-atishay-voice-clone
-(Optional) Create virtual environment:
+(Optional) Create a virtual environment:
 
 (optional)
 python -m venv venv
@@ -47,13 +47,13 @@ python app.py
 Licensed under the Non-Commercial CPML by Coqui — details here.
 For commercial use, contact Coqui.
 
-🙋‍♂️ Author: Atishay Jain
+ Author: Atishay Jain
 📧 LinkedIn: www.linkedin.com/in/atishay-jain-0465aj
-🎓 CSE student t
-🏅 Voice samples & model integration by me!
+ CSE student 
+ Voice samples & model integration by me!
 
 
-## ✅ `.gitignore` (Python Template)
+##  `.gitignore` (Python Template)
 
 ```gitignore
 # Byte-compiled / optimized / DLL files
@@ -74,7 +74,7 @@ Thumbs.db
 *.safetensors
 *.bin
 
-✅ LICENSE
+🪪 LICENSE
 Since you’re using Coqui XTTS, it’s NOT fully open-source for commercial use.
 The model is under CPML (Coqui Public Model License).
 
